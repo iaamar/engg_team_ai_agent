@@ -2,6 +2,16 @@
 
 Welcome to the EngineeringTeam Crew project, powered by [crewAI](https://crewai.com). This project is designed to set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
 
+# Demo
+
+![](./ui/1.png)
+![](./ui/1.1.png)
+![](./ui/2.png)
+![](./ui/2.1.png)
+![](./ui/3.png)
+
+
+
 ## Installation
 
 Ensure you have Python >=3.10 <3.13 installed on your system. This project uses [UV](https://docs.astral.sh/uv/) for dependency management and package handling, offering a seamless setup and execution experience.
