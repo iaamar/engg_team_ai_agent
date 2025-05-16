@@ -9,6 +9,9 @@ Welcome to the EngineeringTeam Crew project, powered by [crewAI](https://crewai.
     - CrewAI
     - Docker
     - OpenAI
+    - Gradio
+    - UV
+    - YAML
 
 
 
